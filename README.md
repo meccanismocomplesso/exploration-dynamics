@@ -134,6 +134,8 @@ Final spatial configuration of embedded and exploratory agents:
 
 ## Author
 
-**Meccanismo Complesso**  
-Independent research project on complex systems, emergence, and agent-based dynamics.
+Fabio Nelli  
+Independent researcher in complex systems and agent-based modeling.
+
+Project developed under the Meccanismo Complesso initiative.
 
