@@ -34,3 +34,20 @@ We compare:
 pip install -r requirements.txt
 python scripts/run_simulation.py
 python scripts/analyze.py
+
+# Relation to main project
+These experiments are part of a broader study:
+→ From Boundary Crossings to Global Connectivity (2026)
+They support the idea that complex system-level structure
+ can emerge without optimization or goal-directed behavior.
+---
+
+## 📦 4. requirements.txt
+
+```txt
+numpy
+matplotlib+
+
+## Example Output
+
+![Exploration dynamics](figures/embedded_vs_exploratory.png)
