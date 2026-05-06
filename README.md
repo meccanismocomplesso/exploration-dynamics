@@ -1,4 +1,3 @@
-````markdown
 # Exploration Dynamics in Agent-Based Systems
 
 This repository explores minimal exploration dynamics in agent-based systems, focusing on the difference between random-walk exploration and locally constrained motion.
@@ -45,28 +44,6 @@ The following observables are computed:
 - **Switching rate** — frequency of movement across regions
 
 These metrics provide a minimal quantitative description of exploration dynamics in structured environments.
-
----
-
-## Repository Structure
-
-```text
-exploration-dynamics/
-│
-├── README.md
-├── requirements.txt
-│
-├── src/
-│   ├── agents.py
-│   ├── simulation.py
-│   └── metrics.py
-│
-├── scripts/
-│   ├── run_simulation.py
-│   └── analyze.py
-│
-└── figures/
-```
 
 ---
 
@@ -159,4 +136,4 @@ Final spatial configuration of embedded and exploratory agents:
 
 **Meccanismo Complesso**  
 Independent research project on complex systems, emergence, and agent-based dynamics.
-````
+
